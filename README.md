@@ -1,14 +1,5 @@
 # React-Ecommerce-website
-### Work Under Progress
 
-### Version 1 :
-* The data is stored locally and not on Firestore
-* GraphQL has not been used.
-version 1 is hosted [HERE!](https://ak-clothing-attempt-two.herokuapp.com/)
-
-An E commerce platform made using React JS, Redux, Firebase (authentication), Firestore, Stripe API (temporarily creating dummy payment gateway)
-
-The application is composed of the following Features:
 
 ### Front-End
 * A landing page with animated minimalistic design, with the major categories of items.
@@ -25,13 +16,6 @@ The application is composed of the following Features:
 * As of this moment I am using firebase for user authentication, also enabled google sign in authentication.
 * It is also used to store user data 
 * In the future it will also hold all shopping related and cart related dtaa of each user.
-
-**Progress:**
-Version 1 completed and hosted
-
-Version 2 Progress: 50%
-<br/>
-![](src/assets/progressbar.png)
 
 
 **SCREENSHOTS:**
@@ -91,13 +75,13 @@ Follow the following steps to get development environment running.
 * Clone _'react-e-commerce-website.git'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/AdityaKumawat97/react-e-commerce-website.git
+  git clone https://github.com/followDev/react-ecommerce.git
   ```
 
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:AdityaKumawat97/react-e-commerce-website.git
+  git clone git@github.com:followDev/react-ecommerce.git
   ```
 
 * Install node modules
